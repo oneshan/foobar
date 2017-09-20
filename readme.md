@@ -42,19 +42,19 @@ Third-party libraries, input/output operations, spawning threads or processes an
 
 - [Ion Flux Relabeling](./ion_flux_relabeling)
 - [Lovely Lucky LAMBs](./lovely_lucky_lambs)
-- # [Bunny Prisoner Locating](./bunny_prisoner_locating)
-- # [En Route Salute](./en_route_salute)
+- `*` [Bunny Prisoner Locating](./bunny_prisoner_locating)
+- `*` [En Route Salute](./en_route_salute)
 
 ### Level 3
 
 - [Bomb, Baby!](./bomb_baby)
 - [Queue To Do](./queue_to_do)
 - [Prepare the Bunnies' Escape](./prepare_the_bunnies_escape)
-- # [Find the Access Codes](./find_the_access_codes)
-- # [The Grandest Staircase Of Them All](./the_grandest_staircase_of_them_all)
+- `*` [Find the Access Codes](./find_the_access_codes)
+- `*` [The Grandest Staircase Of Them All](./the_grandest_staircase_of_them_all)
 
 ----
 
 Note
-> Problems marked with `#` are collected from other place.
+> Problems marked with `*` are collected from other place.
 > So I did't verify those solution, but I think they work.
