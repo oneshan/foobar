@@ -21,19 +21,27 @@ Test cases
 ==========
 
 Inputs:
+```
     (int list) dimensions = [3, 2]
     (int list) captain_position = [1, 1]
     (int list) badguy_position = [2, 1]
     (int) distance = 4
+```
 Output:
+```
     (int) 7
+```
 
 Inputs:
+```
     (int list) dimensions = [300, 275]
     (int list) captain_position = [150, 150]
     (int list) badguy_position = [185, 100]
     (int) distance = 500
+```
 Output:
+```
     (int) 9
+```
 
 Use verify [file] to test your solution and see how it does. When you are finished editing your code, use submit [file] to submit your answer. If your solution passes the test cases, it will be removed from your home folder.

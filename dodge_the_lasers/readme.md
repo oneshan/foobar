@@ -28,13 +28,21 @@ Test cases
 ==========
 
 Inputs:
+```
     (string) str_n = "5"
+```
 Output:
+```
     (string) "19"
+```
 
 Inputs:
+```
     (string) str_n = "77"
+```
 Output:
+```
     (string) "4208"
+```
 
 Use verify [file] to test your solution and see how it does. When you are finished editing your code, use submit [file] to submit your answer. If your solution passes the test cases, it will be removed from your home folder.

@@ -27,13 +27,21 @@ Test cases
 ==========
 
 Inputs:
+```
     (int list) banana_list = [1, 1]
+```
 Output:
+```
     (int) 2
+```
 
 Inputs:
+```
     (int list) banana_list = [1, 7, 3, 21, 13, 19]
+```
 Output:
+```
     (int) 0
+```
 
 Use verify [file] to test your solution and see how it does. When you are finished editing your code, use submit [file] to submit your answer. If your solution passes the test cases, it will be removed from your home folder.

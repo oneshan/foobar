@@ -46,7 +46,7 @@ Third-party libraries, input/output operations, spawning threads or processes an
 ### Level 1
 
 - [Re-ID](./re_id)
-- [Minion Labor Shifts](./minion_labor_shifts)
+- `*` [Minion Labor Shifts](./minion_labor_shifts)
 
 ### Level 2
 
