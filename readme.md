@@ -5,13 +5,23 @@ My solutions from Google Foobar. For educational purposes only.
 https://foobar.withgoogle.com
 
 ```
-Current level: 4. Challenges to complete level: 2.
+Level 5 complete.
 
 Level 1 100% [==========================================]
 Level 2 100% [==========================================]
 Level 3 100% [==========================================]
-Level 4   0% [..........................................]
-Level 5   0% [..........................................]
+Level 4 100% [==========================================]
+Level 5 100% [==========================================]
+
+
+<encrypted>
+KEIGEQw3MiAWUkRVdHA0FxAFG3N7c0IWCwM4MjICAAFIdG1zQhAXGzEyPgARQ0N0cDYDEwsdICR0 RU9ESD05MBcQAAY2OzZCWURINTQ7DBASCjkyPRFSRFV0cCYLGQsMPzI3QllESCY2MQccEBxzd2lF UhcOMjJ0SVVDCTs4dEVPREgjPj1EUhk=
+</encrypted>
+
+# decoded message
+
+['sucCESs' :Great
+                 'colLEAgue''estEEMed',EfforTS : 'INCrediBLE', 'ACHieveMENt' :UnlocKED', 'RABbits 'saFE, 'fOO : 'WIN!'}
 ```
 
 ## Languages & Constrains
@@ -52,6 +62,14 @@ Third-party libraries, input/output operations, spawning threads or processes an
 - [Prepare the Bunnies' Escape](./prepare_the_bunnies_escape)
 - `*` [Find the Access Codes](./find_the_access_codes)
 - `*` [The Grandest Staircase Of Them All](./the_grandest_staircase_of_them_all)
+
+
+### Level 4
+- [Bringing a Gun to a Guard Fight](./bringing_a_gun_to_a_guard_fight)
+- [Distract the Guards](./distract_the_guards)
+
+### Level 5
+- [Dodge the Lasers!](./dodge_the_lasers/)
 
 ----
 
